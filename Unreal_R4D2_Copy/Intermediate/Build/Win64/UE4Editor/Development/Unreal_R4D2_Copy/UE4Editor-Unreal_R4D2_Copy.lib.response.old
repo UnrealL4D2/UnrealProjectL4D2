@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Unreal_R4D2_Copy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Unreal_R4D2_Copy.cpp.obj"
+"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.cpp.obj"
+"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Unreal_R4D2_Copy.init.gen.cpp.obj"
+"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.gen.cpp.obj"
+"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Default.rc2.res"
+/OUT:"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\UE4Editor-Unreal_R4D2_Copy.lib"

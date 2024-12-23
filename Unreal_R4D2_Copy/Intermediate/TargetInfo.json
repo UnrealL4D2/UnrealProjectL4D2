@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_R4D2_Copy",
+			"Path": "C:\\Users\\SCHALE\\Documents\\GitHub\\Unreal\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_R4D2_CopyEditor",
+			"Path": "C:\\Users\\SCHALE\\Documents\\GitHub\\Unreal\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_CopyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
