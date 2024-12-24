@@ -14,4 +14,5 @@ class UNREAL_R4D2_COPY_API AUnreal_R4D2_CopyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+	AUnreal_R4D2_CopyGameModeBase();
 };

@@ -36,7 +36,7 @@ public: \
 
 #define Unreal_R4D2_Copy_Source_Unreal_R4D2_Copy_Unreal_R4D2_CopyGameModeBase_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AUnreal_R4D2_CopyGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AUnreal_R4D2_CopyGameModeBase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUnreal_R4D2_CopyGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUnreal_R4D2_CopyGameModeBase); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUnreal_R4D2_CopyGameModeBase); \
@@ -48,8 +48,6 @@ public:
 
 
 #define Unreal_R4D2_Copy_Source_Unreal_R4D2_Copy_Unreal_R4D2_CopyGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AUnreal_R4D2_CopyGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUnreal_R4D2_CopyGameModeBase(AUnreal_R4D2_CopyGameModeBase&&); \
@@ -57,7 +55,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUnreal_R4D2_CopyGameModeBase); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUnreal_R4D2_CopyGameModeBase); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUnreal_R4D2_CopyGameModeBase)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUnreal_R4D2_CopyGameModeBase)
 
 
 #define Unreal_R4D2_Copy_Source_Unreal_R4D2_Copy_Unreal_R4D2_CopyGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
