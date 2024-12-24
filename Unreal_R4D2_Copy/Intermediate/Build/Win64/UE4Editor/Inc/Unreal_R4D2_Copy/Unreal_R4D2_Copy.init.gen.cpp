@@ -21,8 +21,13 @@ void EmptyLinkFunctionForGeneratedCodeUnreal_R4D2_Copy_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
+<<<<<<< HEAD
 				0x9CD8EADB,
 				0x4128F643,
+=======
+				0xC9CF0989,
+				0xEE35F3D4,
+>>>>>>> main
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

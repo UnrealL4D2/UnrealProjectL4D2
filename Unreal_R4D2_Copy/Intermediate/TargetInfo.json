@@ -2,12 +2,20 @@
 	"Targets": [
 		{
 			"Name": "Unreal_R4D2_Copy",
+<<<<<<< HEAD
 			"Path": "C:\\Users\\hkh22\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy.Target.cs",
+=======
+			"Path": "C:\\Users\\admin\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy.Target.cs",
+>>>>>>> main
 			"Type": "Game"
 		},
 		{
 			"Name": "Unreal_R4D2_CopyEditor",
+<<<<<<< HEAD
 			"Path": "C:\\Users\\hkh22\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_CopyEditor.Target.cs",
+=======
+			"Path": "C:\\Users\\admin\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_CopyEditor.Target.cs",
+>>>>>>> main
 			"Type": "Editor"
 		}
 	]

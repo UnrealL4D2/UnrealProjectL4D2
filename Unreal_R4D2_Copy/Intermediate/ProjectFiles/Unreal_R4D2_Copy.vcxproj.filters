@@ -3,7 +3,11 @@
   <ItemGroup>
     <None Include="..\..\Unreal_R4D2_Copy.uproject" />
     <Filter Include="Source">
+<<<<<<< HEAD
       <UniqueIdentifier>{4B2DAF36-F87F-4E0F-9986-4D3A1D57818E}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{E685676E-6654-494E-A12F-C490982E646C}</UniqueIdentifier>
+>>>>>>> main
     </Filter>
     <None Include="..\..\Source\Unreal_R4D2_Copy.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +16,11 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
+<<<<<<< HEAD
       <UniqueIdentifier>{869FEB64-0580-4C0C-A092-4816176BDC47}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{93925899-298C-4536-9014-8F16370214A6}</UniqueIdentifier>
+>>>>>>> main
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +31,22 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\Unreal_R4D2_Copy">
+<<<<<<< HEAD
       <UniqueIdentifier>{B1D28F74-3690-4BDF-B3D9-9CAC585AB4BF}</UniqueIdentifier>
+=======
+      <UniqueIdentifier>{2C76616A-75A1-4CAA-B11A-231581DF1E08}</UniqueIdentifier>
+>>>>>>> main
     </Filter>
+    <ClCompile Include="..\..\Source\Unreal_R4D2_Copy\MyCharacter.cpp">
+      <Filter>Source\Unreal_R4D2_Copy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_R4D2_Copy\MyCharacter.h">
+      <Filter>Source\Unreal_R4D2_Copy</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Unreal_R4D2_Copy\Unreal_R4D2_Copy.Build.cs">
       <Filter>Source\Unreal_R4D2_Copy</Filter>
     </None>
