@@ -72,3 +72,5 @@ Unreal_R4D2_Copy/Plugins/**/Intermediate/
 
 # Cache files for the editor to use
 Unreal_R4D2_Copy/DerivedDataCache/
+
+Unreal_R4D2_Copy/Content/RuralAustralia/StaticMeshes/**/*.uasset
