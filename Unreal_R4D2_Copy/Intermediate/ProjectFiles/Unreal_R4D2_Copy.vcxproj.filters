@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Unreal_R4D2_Copy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F2EA0440-C21A-4538-B0D1-C440C87CABA3}</UniqueIdentifier>
+      <UniqueIdentifier>{4B2DAF36-F87F-4E0F-9986-4D3A1D57818E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Unreal_R4D2_Copy.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{940DF13F-D325-4226-A201-E4EF6B290DEE}</UniqueIdentifier>
+      <UniqueIdentifier>{869FEB64-0580-4C0C-A092-4816176BDC47}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Unreal_R4D2_Copy">
-      <UniqueIdentifier>{FDD48376-34B8-4237-92BA-3AB8AF085D5F}</UniqueIdentifier>
+      <UniqueIdentifier>{B1D28F74-3690-4BDF-B3D9-9CAC585AB4BF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Unreal_R4D2_Copy\Unreal_R4D2_Copy.Build.cs">
       <Filter>Source\Unreal_R4D2_Copy</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\Unreal_R4D2_Copy</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.h">
+      <Filter>Source\Unreal_R4D2_Copy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_R4D2_Copy\ZombieAIController.cpp">
+      <Filter>Source\Unreal_R4D2_Copy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_R4D2_Copy\ZombieAIController.h">
       <Filter>Source\Unreal_R4D2_Copy</Filter>
     </ClInclude>
   </ItemGroup>
