@@ -1,9 +1,9 @@
-C:\Users\admin\Documents\GitHub\UnrealProjectL4D2\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Definitions.Unreal_R4D2_Copy.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\admin\Documents\GitHub\UnrealProjectL4D2\Unreal_R4D2_Copy\Source\Unreal_R4D2_Copy/Unreal_R4D2_CopyGameModeBase.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\admin\Documents\GitHub\UnrealProjectL4D2\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Inc\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.generated.h
+D:\unrealStudy\UnrealProjectL4D2\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Definitions.Unreal_R4D2_Copy.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\unrealStudy\UnrealProjectL4D2\Unreal_R4D2_Copy\Source\Unreal_R4D2_Copy/Unreal_R4D2_CopyGameModeBase.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\unrealStudy\UnrealProjectL4D2\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Inc\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.generated.h

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\admin\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy\\Unreal_R4D2_Copy.Build.cs",
-		"C:\\Users\\admin\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy.Target.cs",
-		"C:\\Users\\admin\\Documents\\GitHub\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_CopyEditor.Target.cs"
+		"D:\\unrealStudy\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy\\Unreal_R4D2_Copy.Build.cs",
+		"D:\\unrealStudy\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_Copy.Target.cs",
+		"D:\\unrealStudy\\UnrealProjectL4D2\\Unreal_R4D2_Copy\\Source\\Unreal_R4D2_CopyEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
