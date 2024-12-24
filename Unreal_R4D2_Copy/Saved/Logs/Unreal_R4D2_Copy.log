@@ -15035,3 +15035,808 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.12.24-06.25.04:400][847]LoadErrors: Warning: CreateExport: 'NODE_AddStaticMeshComponent-0_7' 리소스에 대한 Spline_Fence_C /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.Spline_Fence_2 Outer 로드에 실패했습니다.
 [2024.12.24-06.25.04:400][847]LoadErrors: Warning: CreateExport: 'NODE_AddStaticMeshComponent-0_8' 리소스에 대한 Spline_Fence_C /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.Spline_Fence_2 Outer 로드에 실패했습니다.
 [2024.12.24-06.25.04:400][847]LoadErrors: Warning: CreateExport: 'NODE_AddStaticMeshComponent-0_9' 리소스에 대한 Spline_Fence_C /Game/RuralAustralia/Maps/RuralAustralia_Example_03.RuralAustralia_Example_03:PersistentLevel.Spline_Fence_2 Outer 로드에 실패했습니다.
+[2024.12.24-06.30.44:087][173]LogSlate: Took 0.006655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.12.24-06.31.09:154][300]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.24-06.31.09:154][300]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.24-06.31.09:154][300]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Developers/admin/Collections/' because it could not be accessed. Aborting watch request...
+[2024.12.24-06.31.49:466][654]LogMetaData: Removing '/Game/Resource/Map/RuralAustralia/Sky/BP_Sky_01.BP_Sky_01_C' ref from Metadata '/Game/RuralAustralia/Sky/BP_Sky_01.PackageMetaData'
+[2024.12.24-06.31.49:466][654]LogMetaData: Removing '/Game/Resource/Map/RuralAustralia/Sky/BP_Sky_01.SKEL_BP_Sky_01_C:UserConstructionScript' ref from Metadata '/Game/RuralAustralia/Sky/BP_Sky_01.PackageMetaData'
+[2024.12.24-06.31.49:466][654]LogMetaData: Removing '/Game/Resource/Map/RuralAustralia/Sky/BP_Sky_01.SKEL_BP_Sky_01_C' ref from Metadata '/Game/RuralAustralia/Sky/BP_Sky_01.PackageMetaData'
+[2024.12.24-06.31.49:466][654]LogMetaData: Removing '/Game/Resource/Map/RuralAustralia/Sky/BP_Sky_01.BP_Sky_01_C:UserConstructionScript' ref from Metadata '/Game/RuralAustralia/Sky/BP_Sky_01.PackageMetaData'
+[2024.12.24-06.31.50:007][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/BP_Sky_01A28DE68A4F5C4B32E41753AC33D77835.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Sky/BP_Sky_01.uasset'
+[2024.12.24-06.31.50:008][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/BP_Sky_0112F4DF9441B97ABB9A2F799637B8C171.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/RuralAustralia/Sky/BP_Sky_01.uasset'
+[2024.12.24-06.31.50:366][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/HDRI_013BB9E6514F797B97F6DA2B9BC4E7681C.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Sky/HDRI_01.uasset'
+[2024.12.24-06.31.50:368][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/HDRI_019EAB1E164C5C62BE6B41AB92A167A261.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/RuralAustralia/Sky/HDRI_01.uasset'
+[2024.12.24-06.31.50:401][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/HDRI_02130AFE7A436349DE0C46E39230667DE9.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Sky/HDRI_02.uasset'
+[2024.12.24-06.31.50:403][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/HDRI_02C0A10F1B415A22DB802C469DF5E8D377.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/RuralAustralia/Sky/HDRI_02.uasset'
+[2024.12.24-06.31.50:418][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/LF_CloudShadowsA96B0E0749E56ED1105460AEC4140740.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Sky/LF_CloudShadows.uasset'
+[2024.12.24-06.31.50:435][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/M_Sky_01955CFC9A40D53CD8F97DB99DC6B18240.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Sky/M_Sky_01.uasset'
+[2024.12.24-06.31.50:437][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/M_Sky_018B28A39D47A1B6315F7BED9A5B167B8F.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/RuralAustralia/Sky/M_Sky_01.uasset'
+[2024.12.24-06.31.50:450][654]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/T_CloudShadows_01_CD7933C7A41E54DA5FC30F5A291CD9998.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Sky/T_CloudShadows_01_C.uasset'
+[2024.12.24-06.31.50:504][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.24-06.31.50:514][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.24-06.31.50:530][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.24-06.31.50:538][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.12.24-06.31.50:620][654]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.12.24-06.31.50:620][654]LogContentValidation: Display: ObjectRedirector /Game/RuralAustralia/Sky/M_Sky_01.M_Sky_01 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: ObjectRedirector /Game/RuralAustralia/Sky/HDRI_02.HDRI_02 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: ObjectRedirector /Game/RuralAustralia/Sky/HDRI_01.HDRI_01 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: ObjectRedirector /Game/RuralAustralia/Sky/BP_Sky_01.BP_Sky_01 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: ObjectRedirector /Game/RuralAustralia/Sky/BP_Sky_01.Default__BP_Sky_01_C 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: ObjectRedirector /Game/RuralAustralia/Sky/BP_Sky_01.BP_Sky_01_C 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: Blueprint /Game/Resource/Map/RuralAustralia/Sky/BP_Sky_01.BP_Sky_01 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: Material /Game/Resource/Map/RuralAustralia/Sky/M_Sky_01.M_Sky_01 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: TextureCube /Game/Resource/Map/RuralAustralia/Sky/HDRI_01.HDRI_01 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: Material /Game/Resource/Map/RuralAustralia/Sky/LF_CloudShadows.LF_CloudShadows 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: Texture2D /Game/Resource/Map/RuralAustralia/Sky/T_CloudShadows_01_C.T_CloudShadows_01_C 유효성 검사 중
+[2024.12.24-06.31.50:621][654]LogContentValidation: Display: TextureCube /Game/Resource/Map/RuralAustralia/Sky/HDRI_02.HDRI_02 유효성 검사 중
+[2024.12.24-06.32.21:759][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/M_Delineator_01.M_Delineator_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/SM_Delineator_01.SM_Delineator_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/T_Delineator_01_CA.T_Delineator_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:759][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Delineator_01/T_Delineator_01_NA.T_Delineator_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/MI_Fence_01.MI_Fence_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/M_Fence_Wires_01.M_Fence_Wires_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/M_Fence_Wires_01_LOD.M_Fence_Wires_01_LOD' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/SM_Fence_01.SM_Fence_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/SM_Fence_02.SM_Fence_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:760][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/SM_Fence_Wires_01.SM_Fence_Wires_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/Spline_Fence.Spline_Fence' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_01_CA.T_Fence_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_01_NA.T_Fence_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_CA.T_Fence_Wire_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_LOD_CA.T_Fence_Wire_01_LOD_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:761][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_LOD_N.T_Fence_Wire_01_LOD_N' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Fence_01/T_Fence_Wire_01_N.T_Fence_Wire_01_N' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/M_KangarooSign_01.M_KangarooSign_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/SM_KangarooSign_01.SM_KangarooSign_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/T_KangarooSign_01_CA.T_KangarooSign_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:763][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/KangarooSign_01/T_KangarooSign_01_N.T_KangarooSign_01_N' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/M_Reflector_01.M_Reflector_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/SM_Reflector_01.SM_Reflector_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/T_Reflector_01_CA.T_Reflector_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Reflector_01/T_Reflector_01_N.T_Reflector_01_N' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/M_RoadLine_Decal_01.M_RoadLine_Decal_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/M_Road_01.M_Road_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/SM_Road_01.SM_Road_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/SM_Road_Spline_01.SM_Road_Spline_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_RoadLine_Decal_01_CA.T_RoadLine_Decal_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_RoadLine_Decal_01_NA.T_RoadLine_Decal_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_CA.T_Road_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:764][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_NA.T_Road_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Road_01/T_Road_01_Tile_NA.T_Road_01_Tile_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Snake_01/M_Snake_01.M_Snake_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Snake_01/SM_Snake_01.SM_Snake_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Snake_01/T_Snake_01_CA.T_Snake_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Props/Snake_01/T_Snake_01_NA.T_Snake_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:766][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/MI_Cliff_L_01.MI_Cliff_L_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/SM_Cliff_L_01_A.SM_Cliff_L_01_A' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/SM_Cliff_L_01_B.SM_Cliff_L_01_B' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/T_Cliff_L_01_CA.T_Cliff_L_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_L_01/T_Cliff_L_01_NA.T_Cliff_L_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/MI_Cliff_M_01.MI_Cliff_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:767][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/SM_Cliff_M_01_A.SM_Cliff_M_01_A' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/SM_Cliff_M_01_B.SM_Cliff_M_01_B' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/T_Cliff_M_01_CA.T_Cliff_M_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_01/T_Cliff_M_01_NA.T_Cliff_M_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/MI_Cliff_M_02.MI_Cliff_M_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:768][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/SM_Cliff_M_02_A.SM_Cliff_M_02_A' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/SM_Cliff_M_02_B.SM_Cliff_M_02_B' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/SM_Cliff_M_02_C.SM_Cliff_M_02_C' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/T_Cliff_M_02_CA.T_Cliff_M_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_02/T_Cliff_M_02_NA.T_Cliff_M_02_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/MI_Cliff_M_03.MI_Cliff_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:769][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/SM_Cliff_M_03.SM_Cliff_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/T_Cliff_M_03_CA.T_Cliff_M_03_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Cliff_M_03/T_Cliff_M_03_NA.T_Cliff_M_03_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/MI_Ridge_Dirt_01.MI_Ridge_Dirt_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/MI_Ridge_Dirt_01_NoOverlay.MI_Ridge_Dirt_01_NoOverlay' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/MI_Ridge_Dirt_02.MI_Ridge_Dirt_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_A.SM_Ridge_Dirt_01_A' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_A_NoOverlay.SM_Ridge_Dirt_01_A_NoOverlay' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:770][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_B.SM_Ridge_Dirt_01_B' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_01_B_NoOverlay.SM_Ridge_Dirt_01_B_NoOverlay' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_02_A.SM_Ridge_Dirt_02_A' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/SM_Ridge_Dirt_02_B.SM_Ridge_Dirt_02_B' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_01_CA.T_Ridge_Dirt_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_01_NA.T_Ridge_Dirt_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:771][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Dirt_01/T_Ridge_Dirt_02_CA.T_Ridge_Dirt_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/MI_Ridge_Rock_01.MI_Ridge_Rock_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/SM_Ridge_Rock_01.SM_Ridge_Rock_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/T_Ridge_Rock_01_CA.T_Ridge_Rock_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_01/T_Ridge_Rock_01_NA.T_Ridge_Rock_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:772][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/MI_Ridge_Rock_02.MI_Ridge_Rock_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/SM_Ridge_Rock_02.SM_Ridge_Rock_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/T_Ridge_Rock_02_CA.T_Ridge_Rock_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Ridge_Rock_02/T_Ridge_Rock_02_NA.T_Ridge_Rock_02_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/FT_Rock_M_01.FT_Rock_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/MI_Rock_M_01.MI_Rock_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:773][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/SM_Rock_M_01.SM_Rock_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/T_Rock_M_01_CA.T_Rock_M_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_01/T_Rock_M_01_NA.T_Rock_M_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:774][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/FT_Rock_M_02.FT_Rock_M_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/MI_Rock_M_02.MI_Rock_M_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/SM_Rock_M_02.SM_Rock_M_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/T_Rock_M_02_CA.T_Rock_M_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_02/T_Rock_M_02_NA.T_Rock_M_02_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/FT_Rock_M_03.FT_Rock_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:775][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/MI_Rock_M_03.MI_Rock_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/SM_Rock_M_03.SM_Rock_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/T_Rock_M_03_CA.T_Rock_M_03_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_M_03/T_Rock_M_03_NA.T_Rock_M_03_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/FT_Rock_S_01.FT_Rock_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:776][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/MI_Rock_S_01.MI_Rock_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/SM_Rock_S_01.SM_Rock_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/T_Rock_S_01_CA.T_Rock_S_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_01/T_Rock_S_01_NA.T_Rock_S_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/FT_Rock_S_02.FT_Rock_S_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/MI_Rock_S_02.MI_Rock_S_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:777][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/SM_Rock_S_02.SM_Rock_S_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/T_Rock_S_02_CA.T_Rock_S_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/Rock_S_02/T_Rock_S_02_NA.T_Rock_S_02_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_Cliff_Tile_CA.T_Cliff_Tile_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_Cliff_Tile_NA.T_Cliff_Tile_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:778][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_DetailTexture_01_NA.T_DetailTexture_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Rocks/_SharedTextures/T_RockStains_CA.T_RockStains_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/FT_GrassTree_01.FT_GrassTree_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/FT_GrassTree_02.FT_GrassTree_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/FT_GrassTree_03.FT_GrassTree_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/FT_GrassTree_04.FT_GrassTree_04' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:779][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_01.MI_GrassTree_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_01_Base.MI_GrassTree_01_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_01_Billboard.MI_GrassTree_01_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_02.MI_GrassTree_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_02_Base.MI_GrassTree_02_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_02_Billboard.MI_GrassTree_02_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_03.MI_GrassTree_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_03_Base.MI_GrassTree_03_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:780][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_03_Billboard.MI_GrassTree_03_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_04.MI_GrassTree_04' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/MI_GrassTree_04_Billboard.MI_GrassTree_04_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_01.SM_GrassTree_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_02.SM_GrassTree_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_03.SM_GrassTree_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:781][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/SM_GrassTree_04.SM_GrassTree_04' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_Billboard_CA.T_GrassTree_01_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_Billboard_NA.T_GrassTree_01_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_CA.T_GrassTree_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_01_NA.T_GrassTree_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_02_Billboard_CA.T_GrassTree_02_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:782][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_02_Billboard_NA.T_GrassTree_02_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_03_Billboard_CA.T_GrassTree_03_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_03_Billboard_NA.T_GrassTree_03_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_04_Billboard_CA.T_GrassTree_04_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_04_Billboard_NA.T_GrassTree_04_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:783][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_Base_01_CA.T_GrassTree_Base_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/GrassTree_01/T_GrassTree_Base_01_NA.T_GrassTree_Base_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/FT_Log_L_01.FT_Log_L_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/MI_Log_L_01.MI_Log_L_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/SM_Log_L_01.SM_Log_L_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/T_Log_L_01_CA.T_Log_L_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:784][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_L_01/T_Log_L_01_NA.T_Log_L_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/FT_Log_M_01.FT_Log_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/MI_Log_M_01.MI_Log_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/SM_Log_M_01.SM_Log_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/T_Log_M_01_CA.T_Log_M_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_M_01/T_Log_M_01_NA.T_Log_M_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:785][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/FT_Log_S_01.FT_Log_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/MI_Log_S_01.MI_Log_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/SM_Log_S_01.SM_Log_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/T_Log_S_01_CA.T_Log_S_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:786][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_01/T_Log_S_01_NA.T_Log_S_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/FT_Log_S_02.FT_Log_S_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/MI_Log_S_02.MI_Log_S_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/SM_Log_S_02.SM_Log_S_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/T_Log_S_02_CA.T_Log_S_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Log_S_02/T_Log_S_02_NA.T_Log_S_02_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:787][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Roots_01/MI_Roots_01.MI_Roots_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Roots_01/SM_Roots_01.SM_Roots_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Roots_01/T_Roots_01_CA.T_Roots_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Roots_01/T_Roots_01_NA.T_Roots_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/FT_Tree_L_01.FT_Tree_L_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/FT_Tree_L_01_Large.FT_Tree_L_01_Large' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/MI_Tree_L_01_Base.MI_Tree_L_01_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/MI_Tree_L_01_Billboard.MI_Tree_L_01_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:788][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/MI_Tree_L_01_Leaves.MI_Tree_L_01_Leaves' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/MI_Tree_L_01_Tile.MI_Tree_L_01_Tile' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/SM_Tree_L_01.SM_Tree_L_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_Billboard_CA.T_Tree_L_01_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_Billboard_NA.T_Tree_L_01_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:790][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_CA.T_Tree_L_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_L_01/T_Tree_L_01_NA.T_Tree_L_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/FT_Tree_M_01.FT_Tree_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/MI_Tree_M_01_Base.MI_Tree_M_01_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/MI_Tree_M_01_Billboard.MI_Tree_M_01_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:791][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/MI_Tree_M_01_Leaves.MI_Tree_M_01_Leaves' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/MI_Tree_M_01_Tile.MI_Tree_M_01_Tile' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/SM_Tree_M_01.SM_Tree_M_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_Billboard_CA.T_Tree_M_01_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_Billboard_NA.T_Tree_M_01_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_CA.T_Tree_M_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:792][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_01/T_Tree_M_01_NA.T_Tree_M_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/FT_Tree_M_02.FT_Tree_M_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/MI_Tree_M_02_Base.MI_Tree_M_02_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/MI_Tree_M_02_Billboard.MI_Tree_M_02_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/MI_Tree_M_02_Leaves.MI_Tree_M_02_Leaves' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/MI_Tree_M_02_Tile.MI_Tree_M_02_Tile' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:793][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/SM_Tree_M_02.SM_Tree_M_02' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_Billboard_CA.T_Tree_M_02_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_Billboard_NA.T_Tree_M_02_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_CA.T_Tree_M_02_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_02/T_Tree_M_02_NA.T_Tree_M_02_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:794][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/FT_Tree_M_03.FT_Tree_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/FT_Tree_M_03_Small.FT_Tree_M_03_Small' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/MI_Tree_M_03_Base.MI_Tree_M_03_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/MI_Tree_M_03_Billboard.MI_Tree_M_03_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/MI_Tree_M_03_Leaves.MI_Tree_M_03_Leaves' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:795][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/MI_Tree_M_03_Tile.MI_Tree_M_03_Tile' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/SM_Tree_M_03.SM_Tree_M_03' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_Billboard_CA.T_Tree_M_03_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_Billboard_NA.T_Tree_M_03_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_CA.T_Tree_M_03_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_03/T_Tree_M_03_NA.T_Tree_M_03_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:796][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/FT_Tree_M_04.FT_Tree_M_04' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/MI_Tree_M_04_Base.MI_Tree_M_04_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/MI_Tree_M_04_Billboard.MI_Tree_M_04_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/MI_Tree_M_04_Leaves.MI_Tree_M_04_Leaves' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/MI_Tree_M_04_Tile.MI_Tree_M_04_Tile' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/SM_Tree_M_04.SM_Tree_M_04' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:797][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_Billboard_CA.T_Tree_M_04_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_Billboard_NA.T_Tree_M_04_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_CA.T_Tree_M_04_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_M_04/T_Tree_M_04_NA.T_Tree_M_04_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/FT_Tree_S_01.FT_Tree_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/FT_Tree_S_01_Small.FT_Tree_S_01_Small' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:798][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/MI_Tree_S_01_Base.MI_Tree_S_01_Base' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/MI_Tree_S_01_Billboard.MI_Tree_S_01_Billboard' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/MI_Tree_S_01_Leaves.MI_Tree_S_01_Leaves' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/MI_Tree_S_01_Tile.MI_Tree_S_01_Tile' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/SM_Tree_S_01.SM_Tree_S_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:799][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_Billboard_CA.T_Tree_S_01_Billboard_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_Billboard_NA.T_Tree_S_01_Billboard_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_CA.T_Tree_S_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/Tree_S_01/T_Tree_S_01_NA.T_Tree_S_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_01_CA.T_Branches_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_01_NA.T_Branches_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_Tile_01_CA.T_Branches_Tile_01_CA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/StaticMeshes/Vegetation/_SharedTextures/T_Branches_Tile_01_NA.T_Branches_Tile_01_NA' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/Water/MI_Water_01.MI_Water_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:800][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/Water/M_Water_01.M_Water_01' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/Water/T_Water_01_M.T_Water_01_M' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/Water/T_Water_01_N.T_Water_01_N' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2024.12.24-06.32.21:801][721]LogUObjectGlobals: Warning: 'Object /Game/RuralAustralia/Water/T_Water_Caustics_01_C.T_Water_Caustics_01_C' 오브젝트를 찾는 데 실패했습니다.
+[2024.12.24-06.32.25:585][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.24-06.32.26:000][946]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/RuralAustralia_Example_01570154C94C35695E7E9C22A2B0891ECA.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Maps/RuralAustralia_Example_01.umap'
+[2024.12.24-06.32.26:014][946]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Saved/RuralAustralia_Example_01_BuiltD54A108414AF58A5691D2FA99B6C00032.tmp' to '../../../../../../Users/admin/Documents/GitHub/UnrealProjectL4D2/Unreal_R4D2_Copy/Content/Resource/Map/RuralAustralia/Maps/RuralAustralia_Example_01_BuiltData.uasset'
+[2024.12.24-06.32.26:024][946]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2024.12.24-06.32.26:024][946]LogContentValidation: Display: World /Game/Resource/Map/RuralAustralia/Maps/RuralAustralia_Example_01.RuralAustralia_Example_01 유효성 검사 중
+[2024.12.24-06.32.26:024][946]LogContentValidation: Display: MapBuildDataRegistry /Game/Resource/Map/RuralAustralia/Maps/RuralAustralia_Example_01_BuiltData.RuralAustralia_Example_01_BuiltData 유효성 검사 중
+[2024.12.24-06.32.31:427][193]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.12.24-06.32.33:054][287]LogSlate: Took 0.006639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.12.24-06.32.33:062][287]LogSlate: Took 0.008060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2024.12.24-06.32.36:741][508]LogSlate: Window '메시지 로그' being destroyed
+[2024.12.24-06.32.36:746][508]LogSlate: Window '메시지 로그' being destroyed
+[2024.12.24-06.32.37:175][534]LogTemp: Repeating last play command: 선택된 뷰포트
+[2024.12.24-06.32.37:183][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.24-06.32.37:184][534]PIE: New page: PIE 세션: RuralAustralia_Example_01 (2024. 12. 25. 오전 12:32:37)
+[2024.12.24-06.32.37:193][534]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.12.24-06.32.37:194][534]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.12.24-06.32.37:195][534]LogPlayLevel: Creating play world package: /Game/Resource/Map/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_01
+[2024.12.24-06.32.37:375][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180462s)
+[2024.12.24-06.32.37:377][534]LogAIModule: Creating AISystem for world RuralAustralia_Example_01
+[2024.12.24-06.32.37:394][534]LogPlayLevel: PIE: World Init took: (0.018850s)
+[2024.12.24-06.32.37:394][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Resource/Map/RuralAustralia/Maps/RuralAustralia_Example_01.RuralAustralia_Example_01 to /Game/Resource/Map/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_01.RuralAustralia_Example_01 (0.199856s)
+[2024.12.24-06.32.37:404][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.24-06.32.37:406][534]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.24-06.32.37:406][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.24-06.32.37:406][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.24-06.32.37:406][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.24-06.32.37:406][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.24-06.32.37:406][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.24-06.32.37:407][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.24-06.32.37:407][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.24-06.32.37:407][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.24-06.32.37:407][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.24-06.32.37:407][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.24-06.32.37:407][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.24-06.32.37:407][534]LogAudioMixer: Display: Initializing audio mixer.
+[2024.12.24-06.32.37:412][534]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.24-06.32.37:412][534]LogAudioMixer: Display: 1: FrontRight
+[2024.12.24-06.32.37:431][534]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.12.24-06.32.37:431][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.24-06.32.37:431][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.24-06.32.37:431][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.24-06.32.37:432][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.12.24-06.32.37:432][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.12.24-06.32.37:432][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.12.24-06.32.37:433][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.12.24-06.32.37:433][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.12.24-06.32.37:433][534]LogInit: FAudioDevice initialized.
+[2024.12.24-06.32.37:433][534]LogAudio: Display: Audio Device (ID: 2) registered with world 'RuralAustralia_Example_01'.
+[2024.12.24-06.32.37:451][534]LogLoad: Game class is 'GameModeBase'
+[2024.12.24-06.32.37:459][534]LogWorld: Bringing World /Game/Resource/Map/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_01.RuralAustralia_Example_01 up for play (max tick rate 60) at 2024.12.24-15.32.37
+[2024.12.24-06.32.38:543][534]LogWorld: Bringing up level for play took: 1.086522
+[2024.12.24-06.32.38:544][534]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2024.12.24-06.32.38:557][534]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.12.24-06.32.38:562][534]PIE: 서버가 로그인했습니다.
+[2024.12.24-06.32.38:565][534]PIE: 에디터에서 플레이 총 시작 시간 1.385초입니다.
+[2024.12.24-06.32.41:963][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.24-06.32.41:963][730]LogWorld: BeginTearingDown for /Game/Resource/Map/RuralAustralia/Maps/UEDPIE_0_RuralAustralia_Example_01
+[2024.12.24-06.32.41:964][730]LogWorld: UWorld::CleanupWorld for RuralAustralia_Example_01, bSessionEnded=true, bCleanupResources=true
+[2024.12.24-06.32.41:967][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.24-06.32.41:978][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.24-06.32.41:981][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.24-06.32.41:987][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.24-06.32.41:990][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.24-06.32.41:992][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.24-06.32.41:995][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.24-06.32.42:007][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.24-06.32.42:048][731]LogPlayLevel: Display: Destroying online subsystem :Context_6
