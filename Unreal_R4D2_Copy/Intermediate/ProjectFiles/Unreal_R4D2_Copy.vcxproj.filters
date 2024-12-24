@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Unreal_R4D2_Copy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E685676E-6654-494E-A12F-C490982E646C}</UniqueIdentifier>
+      <UniqueIdentifier>{D9244857-3B9E-4508-96D0-F678FF45C588}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Unreal_R4D2_Copy.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{93925899-298C-4536-9014-8F16370214A6}</UniqueIdentifier>
+      <UniqueIdentifier>{4A0803C6-0920-4736-91C4-EA1518A0B071}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,8 +27,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Unreal_R4D2_Copy">
-      <UniqueIdentifier>{2C76616A-75A1-4CAA-B11A-231581DF1E08}</UniqueIdentifier>
+      <UniqueIdentifier>{AB1D5E03-D76D-4511-B2A8-69FE20E1E1BA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Unreal_R4D2_Copy\MyBTService_SearchTarget.cpp">
+      <Filter>Source\Unreal_R4D2_Copy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_R4D2_Copy\MyBTService_SearchTarget.h">
+      <Filter>Source\Unreal_R4D2_Copy</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Unreal_R4D2_Copy\MyCharacter.cpp">
       <Filter>Source\Unreal_R4D2_Copy</Filter>
     </ClCompile>
