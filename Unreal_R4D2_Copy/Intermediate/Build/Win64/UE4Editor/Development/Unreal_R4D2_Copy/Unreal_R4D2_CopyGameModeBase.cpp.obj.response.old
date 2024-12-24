@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Inc\Unreal_R4D2_Copy
-/I C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Source
+/I C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Inc\Unreal_R4D2_Copy
+/I C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Source\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.cpp"
-/FI"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Definitions.Unreal_R4D2_Copy.h"
-/Fo"C:\Users\SCHALE\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.cpp.obj"
+/FI"C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\Unreal_R4D2_CopyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Source\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.cpp"
+/FI"C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Definitions.Unreal_R4D2_Copy.h"
+/Fo"C:\Users\admin\Documents\GitHub\Unreal\Unreal_R4D2_Copy\Intermediate\Build\Win64\UE4Editor\Development\Unreal_R4D2_Copy\Unreal_R4D2_CopyGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4
