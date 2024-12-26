@@ -14,4 +14,8 @@ class UNREAL_R4D2_COPY_API UMyBTService_SearchTarget : public UBTService
 {
 	GENERATED_BODY()
 	
+public:
+	UMyBTService_SearchTarget();
+
+	virtual void TickNode(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory, float DeltaSeconds) override;
 };

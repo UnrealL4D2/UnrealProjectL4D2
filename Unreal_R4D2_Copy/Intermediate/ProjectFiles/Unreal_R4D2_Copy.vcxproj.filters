@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Unreal_R4D2_Copy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C8AD1E76-F12A-474A-A2B7-4A869E9EF3F5}</UniqueIdentifier>
+      <UniqueIdentifier>{FDB27803-7BB9-4A65-B017-074B4F7D4D56}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Unreal_R4D2_Copy.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B4DDA2BE-1E68-4D89-82A0-4DAAE628FC0E}</UniqueIdentifier>
+      <UniqueIdentifier>{DB5D66BE-4B0B-4052-ABE0-BB91AC1E0393}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Unreal_R4D2_Copy">
-      <UniqueIdentifier>{12EA0638-F6F5-4B46-9B1D-36C9B99A8873}</UniqueIdentifier>
+      <UniqueIdentifier>{E1089448-4F25-45B1-A71B-92B87AC49783}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Unreal_R4D2_Copy\MyAIController_Zombie.cpp">
       <Filter>Source\Unreal_R4D2_Copy</Filter>
